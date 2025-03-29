@@ -1,4 +1,4 @@
-Telco Customer Churn Analysis
+**Telco Customer Churn Analysis**
 📝 Overview
 This project analyzes customer churn data from a telecommunications company to identify factors contributing to customer retention and churn. The dataset contains customer demographics, account details, service usage, and churn status.
 
